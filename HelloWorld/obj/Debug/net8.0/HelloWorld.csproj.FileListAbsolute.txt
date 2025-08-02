@@ -1,0 +1,14 @@
+/home/olamide/RiderProjects/ConsoleApp1/HelloWorld/bin/Debug/net8.0/HelloWorld
+/home/olamide/RiderProjects/ConsoleApp1/HelloWorld/bin/Debug/net8.0/HelloWorld.deps.json
+/home/olamide/RiderProjects/ConsoleApp1/HelloWorld/bin/Debug/net8.0/HelloWorld.runtimeconfig.json
+/home/olamide/RiderProjects/ConsoleApp1/HelloWorld/bin/Debug/net8.0/HelloWorld.dll
+/home/olamide/RiderProjects/ConsoleApp1/HelloWorld/bin/Debug/net8.0/HelloWorld.pdb
+/home/olamide/RiderProjects/ConsoleApp1/HelloWorld/obj/Debug/net8.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/olamide/RiderProjects/ConsoleApp1/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfoInputs.cache
+/home/olamide/RiderProjects/ConsoleApp1/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfo.cs
+/home/olamide/RiderProjects/ConsoleApp1/HelloWorld/obj/Debug/net8.0/HelloWorld.csproj.CoreCompileInputs.cache
+/home/olamide/RiderProjects/ConsoleApp1/HelloWorld/obj/Debug/net8.0/HelloWorld.dll
+/home/olamide/RiderProjects/ConsoleApp1/HelloWorld/obj/Debug/net8.0/refint/HelloWorld.dll
+/home/olamide/RiderProjects/ConsoleApp1/HelloWorld/obj/Debug/net8.0/HelloWorld.pdb
+/home/olamide/RiderProjects/ConsoleApp1/HelloWorld/obj/Debug/net8.0/HelloWorld.genruntimeconfig.cache
+/home/olamide/RiderProjects/ConsoleApp1/HelloWorld/obj/Debug/net8.0/ref/HelloWorld.dll

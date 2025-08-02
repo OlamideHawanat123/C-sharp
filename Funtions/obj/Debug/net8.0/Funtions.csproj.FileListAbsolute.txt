@@ -1,0 +1,14 @@
+/home/olamide/RiderProjects/ConsoleApp1/Funtions/bin/Debug/net8.0/Funtions
+/home/olamide/RiderProjects/ConsoleApp1/Funtions/bin/Debug/net8.0/Funtions.deps.json
+/home/olamide/RiderProjects/ConsoleApp1/Funtions/bin/Debug/net8.0/Funtions.runtimeconfig.json
+/home/olamide/RiderProjects/ConsoleApp1/Funtions/bin/Debug/net8.0/Funtions.dll
+/home/olamide/RiderProjects/ConsoleApp1/Funtions/bin/Debug/net8.0/Funtions.pdb
+/home/olamide/RiderProjects/ConsoleApp1/Funtions/obj/Debug/net8.0/Funtions.GeneratedMSBuildEditorConfig.editorconfig
+/home/olamide/RiderProjects/ConsoleApp1/Funtions/obj/Debug/net8.0/Funtions.AssemblyInfoInputs.cache
+/home/olamide/RiderProjects/ConsoleApp1/Funtions/obj/Debug/net8.0/Funtions.AssemblyInfo.cs
+/home/olamide/RiderProjects/ConsoleApp1/Funtions/obj/Debug/net8.0/Funtions.csproj.CoreCompileInputs.cache
+/home/olamide/RiderProjects/ConsoleApp1/Funtions/obj/Debug/net8.0/Funtions.dll
+/home/olamide/RiderProjects/ConsoleApp1/Funtions/obj/Debug/net8.0/refint/Funtions.dll
+/home/olamide/RiderProjects/ConsoleApp1/Funtions/obj/Debug/net8.0/Funtions.pdb
+/home/olamide/RiderProjects/ConsoleApp1/Funtions/obj/Debug/net8.0/Funtions.genruntimeconfig.cache
+/home/olamide/RiderProjects/ConsoleApp1/Funtions/obj/Debug/net8.0/ref/Funtions.dll

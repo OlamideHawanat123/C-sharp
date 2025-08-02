@@ -1,0 +1,14 @@
+/home/olamide/RiderProjects/ConsoleApp1/PizzaStore/bin/Debug/net8.0/PizzaStore
+/home/olamide/RiderProjects/ConsoleApp1/PizzaStore/bin/Debug/net8.0/PizzaStore.deps.json
+/home/olamide/RiderProjects/ConsoleApp1/PizzaStore/bin/Debug/net8.0/PizzaStore.runtimeconfig.json
+/home/olamide/RiderProjects/ConsoleApp1/PizzaStore/bin/Debug/net8.0/PizzaStore.dll
+/home/olamide/RiderProjects/ConsoleApp1/PizzaStore/bin/Debug/net8.0/PizzaStore.pdb
+/home/olamide/RiderProjects/ConsoleApp1/PizzaStore/obj/Debug/net8.0/PizzaStore.GeneratedMSBuildEditorConfig.editorconfig
+/home/olamide/RiderProjects/ConsoleApp1/PizzaStore/obj/Debug/net8.0/PizzaStore.AssemblyInfoInputs.cache
+/home/olamide/RiderProjects/ConsoleApp1/PizzaStore/obj/Debug/net8.0/PizzaStore.AssemblyInfo.cs
+/home/olamide/RiderProjects/ConsoleApp1/PizzaStore/obj/Debug/net8.0/PizzaStore.csproj.CoreCompileInputs.cache
+/home/olamide/RiderProjects/ConsoleApp1/PizzaStore/obj/Debug/net8.0/PizzaStore.dll
+/home/olamide/RiderProjects/ConsoleApp1/PizzaStore/obj/Debug/net8.0/refint/PizzaStore.dll
+/home/olamide/RiderProjects/ConsoleApp1/PizzaStore/obj/Debug/net8.0/PizzaStore.pdb
+/home/olamide/RiderProjects/ConsoleApp1/PizzaStore/obj/Debug/net8.0/PizzaStore.genruntimeconfig.cache
+/home/olamide/RiderProjects/ConsoleApp1/PizzaStore/obj/Debug/net8.0/ref/PizzaStore.dll
