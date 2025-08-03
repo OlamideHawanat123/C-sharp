@@ -1,0 +1,15 @@
+/home/olamide/RiderProjects/ConsoleApp1/BackToSenderLogistics/bin/Debug/net8.0/BackToSenderLogistics
+/home/olamide/RiderProjects/ConsoleApp1/BackToSenderLogistics/bin/Debug/net8.0/BackToSenderLogistics.deps.json
+/home/olamide/RiderProjects/ConsoleApp1/BackToSenderLogistics/bin/Debug/net8.0/BackToSenderLogistics.runtimeconfig.json
+/home/olamide/RiderProjects/ConsoleApp1/BackToSenderLogistics/bin/Debug/net8.0/BackToSenderLogistics.dll
+/home/olamide/RiderProjects/ConsoleApp1/BackToSenderLogistics/bin/Debug/net8.0/BackToSenderLogistics.pdb
+/home/olamide/RiderProjects/ConsoleApp1/BackToSenderLogistics/obj/Debug/net8.0/BackToSenderLogistics.GeneratedMSBuildEditorConfig.editorconfig
+/home/olamide/RiderProjects/ConsoleApp1/BackToSenderLogistics/obj/Debug/net8.0/BackToSenderLogistics.AssemblyInfoInputs.cache
+/home/olamide/RiderProjects/ConsoleApp1/BackToSenderLogistics/obj/Debug/net8.0/BackToSenderLogistics.AssemblyInfo.cs
+/home/olamide/RiderProjects/ConsoleApp1/BackToSenderLogistics/obj/Debug/net8.0/BackToSenderLogistics.csproj.CoreCompileInputs.cache
+/home/olamide/RiderProjects/ConsoleApp1/BackToSenderLogistics/obj/Debug/net8.0/BackToSenderLogistics.sourcelink.json
+/home/olamide/RiderProjects/ConsoleApp1/BackToSenderLogistics/obj/Debug/net8.0/BackToSenderLogistics.dll
+/home/olamide/RiderProjects/ConsoleApp1/BackToSenderLogistics/obj/Debug/net8.0/refint/BackToSenderLogistics.dll
+/home/olamide/RiderProjects/ConsoleApp1/BackToSenderLogistics/obj/Debug/net8.0/BackToSenderLogistics.pdb
+/home/olamide/RiderProjects/ConsoleApp1/BackToSenderLogistics/obj/Debug/net8.0/BackToSenderLogistics.genruntimeconfig.cache
+/home/olamide/RiderProjects/ConsoleApp1/BackToSenderLogistics/obj/Debug/net8.0/ref/BackToSenderLogistics.dll

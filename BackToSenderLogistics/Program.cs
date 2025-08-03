@@ -1,25 +1,25 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-public class PizzaStore
+namespace BackToSenderLogistics;
+public class BackToSenderLogistics
 {
-    private static int[] amountPerPercel = { 160, 200, 250, 500 };
-    private static int basePay = 5000;
-    static int wage;
+     int[] _amountPerPercel = { 160, 200, 250, 500 };
+     int _basePay = 5000;
+     int _wage;
 
-    private static int CalculateWageOfTheDay(int collectionRate) {
+    public  int CalculateWageOfTheDay(int collectionRate) {
         
-        if (collectionRate < 50) wage = collectionRate * amountPerPercel[0] + basePay;
-        if (collectionRate >= 50) wage = collectionRate * amountPerPercel[1] + basePay;
-        if (collectionRate >= 60) wage = collectionRate * amountPerPercel[2] + basePay;
-        if (collectionRate >=  70 && collectionRate < 100) wage = collectionRate * amountPerPercel[3] + basePay;
+        if (collectionRate < 50) _wage = collectionRate * _amountPerPercel[0] + _basePay;
+        if (collectionRate >= 50) _wage = collectionRate * _amountPerPercel[1] + _basePay;
+        if (collectionRate >= 60) _wage = collectionRate * _amountPerPercel[2] + _basePay;
+        if (collectionRate >=  70 && collectionRate < 100) _wage = collectionRate * _amountPerPercel[3] + _basePay;
 
-        return wage;
+        return _wage;
     }
     
-    static void Main(string[] args) {
+    public static void Main(string[] args) {
         Console.WriteLine("Enter your collection rate:");
-        int collectionRate = Convert.ToInt32(Console.ReadLine());
-        Console.WriteLine("Your wage is" + " "+ CalculateWageOfTheDay(collectionRate));
+      
 
     }
     
